@@ -45,11 +45,12 @@ body {
 
 .App{
   height: 400px;
-  width: 430px;
+  width: 400px;
   background: white;
   padding: 0;
   box-sizing: border-box;
   border-radius: 15px;
+   
  
 }
 
